@@ -1,0 +1,2 @@
+menambah test2.txt
+menambah baris di test2.txt
